@@ -1,4 +1,4 @@
-<!-- # 📝 PHP Note-Taking Application
+# 📝 PHP Note-Taking Application
 
 A lightweight yet powerful **note-taking app** built with **PHP** and **MySQL**, designed to keep your thoughts organized and accessible anywhere.  
 
@@ -19,26 +19,4 @@ Follow these steps to set up the application locally:
 
 2. **Install dependencies**
     ```bash
-    composer install -->
-
-
-    📝 PHP Note-Taking Application
-A lightweight yet powerful note-taking app built with PHP and MySQL, designed to keep your thoughts organized and accessible anywhere.
-
-🛡️ Badges
-PHP
-MySQL
-License
-Last Commit
-Issues
-
-✨ Features
-🖊️ CRUD Notes – Create, view, update, and delete notes with ease
-📸 Image Upload – Drag-and-drop image support for visual note-taking
-📤 Export Options – Save notes as PDF or Word documents
-📱 Responsive Design – Works seamlessly across desktop and mobile
-🔍 Search Functionality – Quickly find notes by title or content
-🏷️ Tagging System – Organize notes with custom tags
-🚀 Getting Started
-Follow these steps to set up the application locally:
-
+    composer install
