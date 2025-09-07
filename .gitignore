@@ -1,0 +1,8 @@
+# .gitignore
+vendor/
+node_modules/
+assets/images/*
+!assets/images/.gitkeep
+.env
+config/database.php
+*.log

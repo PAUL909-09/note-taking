@@ -1,0 +1,27 @@
+.drop-area {
+    border: 2px dashed #ccc;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.drop-area.highlight {
+    border-color: #007bff;
+    background-color: rgba(0, 123, 255, 0.1);
+}
+
+.note-content {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    line-height: 1.6;
+}
+
+/* Make images in notes responsive */
+.note-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px 0;
+}

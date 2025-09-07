@@ -1,0 +1,8 @@
+{
+    "name": "jjpa/note-taking",
+    "description": "A note-taking application",
+    "require": {
+        "tecnickcom/tcpdf": "^6.7",
+        "phpoffice/phpword": "^1.3"
+    }
+}
